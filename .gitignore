@@ -1,0 +1,13 @@
+venv/
+
+# Sensitive credentials
+client_secret.json
+token.pickle
+github_secret.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
